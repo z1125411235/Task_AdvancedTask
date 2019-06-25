@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="Unity教學-用UNET製作多人連線FPS遊戲.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Lobby\Scripts\Lobby\LobbyPlayer.cs">
+    <Files>
+      <File FileName="Assets\Lobby\Scripts\Lobby\LobbyPlayer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

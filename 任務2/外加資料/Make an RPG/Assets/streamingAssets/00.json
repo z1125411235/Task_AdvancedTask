@@ -1,0 +1,29 @@
+{
+
+  "id": 0,
+  "questName": "村民的困擾",
+  "description": "勇者可以幫我個忙嗎?",
+  "recipent": 0,
+  "requiredLevel": 0,
+  "reward": {
+    "exp": 500.0,
+    "money": 0.0,
+    "items": [
+      {
+        "id": 2,
+        "amount": 1
+      }
+    ]
+  },
+  "task": {
+    "talkTo": [],
+    "items": [],
+    "kills": [
+      {
+        "id": 0,
+        "amount": 2,
+        "initialAmount": 0
+      }
+    ]
+  }
+}
